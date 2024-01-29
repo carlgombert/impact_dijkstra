@@ -1,0 +1,8 @@
+What is a graph? A graph is a data structure in computer science. You can visualize a graph as a bunch of points that are connected to each other with lines.
+Here's some basic vocab that I'll be using to describe them:
+
+Nodes: The set of points in the graph
+Edges: The lines connecting the nodes together
+
+Graphs are used to represent the relationships between objects and are extremely versatile. They model computer networks, transport routes and relationships between users
+

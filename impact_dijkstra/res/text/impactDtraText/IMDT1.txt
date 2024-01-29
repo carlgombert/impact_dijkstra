@@ -1,0 +1,4 @@
+Though it might not appear so on the surface, this algorithm has a huge impact on our lives.
+
+The most obvious impact being google maps and other route planning software. According to Lanning (2014) Dijkstra’s algorithm is “the backbone of every navigation system.” (p. 1)
+

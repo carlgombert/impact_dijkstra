@@ -1,0 +1,4 @@
+Taking out a map or atlas to navigate is a difficult task to imagine now that route navigation software is so widespread. Said CNBC (2020), “It (google maps) has become essential in the daily lives of its over one billion monthly users. It's mapped more than 220 countries and territories and is updated tens of thousands of times a day.”
+
+These road systems have all been modeled as graphs, streets are modeled as the lines that connect the points and the points are intersections. Weights on the graphs are calculated using many complex factors such as traffic data, road speeds and traffic lights.
+

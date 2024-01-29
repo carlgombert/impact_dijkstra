@@ -1,0 +1,5 @@
+Note: as you're moving thoughout the graph make sure to update nodes if you find shorter distances to them
+
+Once the target node is reached or there are no more unvisited nodes the algorithm is finished
+
+Pseudocode is included on the next page if you would like to get a better idea about how to implement this algorithm. This Pseudocode is provided by Grossmann (2016)

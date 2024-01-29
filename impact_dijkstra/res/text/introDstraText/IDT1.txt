@@ -1,0 +1,1 @@
+What dijkstra's algorithm does is pretty similar to what you just did in your head

@@ -1,0 +1,2 @@
+Now how might you go about finding the best path between two points on a graph modeling the major roads in paris?
+For this problem you would use Dijkstra's algorithm

@@ -1,0 +1,5 @@
+there are many different types of graphs such as directed graphs in which the edges have a direction.
+
+This graph can only be traversed in the direction of the edges.
+
+In contrast an undirected graph has edges with a two way relationship and can be traversed in either direction.

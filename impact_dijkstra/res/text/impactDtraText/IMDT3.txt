@@ -1,0 +1,3 @@
+It is important to note that these algorithms being used to calculate the routes are optimizations based on dijkstra, not the original algorithm as it would be extremely slow.
+ 
+According to Delling (2009), “Algorithms for route planning in transportation networks have recently undergone rapid development, leading to methods that are up to three million times faster than Dijkstra’s algorithm.”(p. 1)

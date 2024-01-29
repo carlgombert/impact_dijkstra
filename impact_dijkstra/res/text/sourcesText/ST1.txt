@@ -1,0 +1,12 @@
+Delling, D., Sanders, P., Schultes, D., & Wagner, D. (2009). Engineering Route Planning Algorithms. Algorithmics of Large and Complex Networks, 117–139. https://doi.org/10.1007/978-3-642-02094-0_7
+
+Arora, N., Theophile Cabannes, Sanjay Subramaniam, & Yechen Li. (2021). Quantifying the sustainability impact of Google Maps: A case study of Salt Lake City. Google Research. https://research.google/pubs/pub50830/
+
+Lanning, D. R., Harrell, G. K., & Wang, J. (n.d.). Review of Dijkstra’s algorithm and google maps. https://dl-acm-org.ezp3.lib.umn.edu/doi/epdf/10.1145/2638404.2638494
+
+CNBC. (2020, December 1). The rise of google maps. YouTube. https://www.youtube.com/watch?v=bvetuLwJIkA
+
+Zhang, X., Chen, Y., & Li, T. (2015). Optimization of logistics route based on Dijkstra. 2015 6th IEEE International Conference on Software Engineering and Service Science (ICSESS). https://doi.org/10.1109/icsess.2015.7339063
+
+Grossmann, T. (2016). Dijkstra Algorithm: Short terms and Pseudocode. Dijkstra algorithm: Short terms and pseudocode. http://www.gitta.info/Accessibiliti/en/html/Dijkstra_learningObject1.html 
+

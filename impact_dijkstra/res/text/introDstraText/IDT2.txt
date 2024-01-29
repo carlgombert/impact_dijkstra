@@ -1,0 +1,9 @@
+Here's a basic explanation of how it works:
+
+Begin at the starting node (the source node) and assign it a distance of 0. From there assign all the other nodes an initial distance of infinity
+
+Look at the neighboring nodes and assign them a new distance. To find this distance add the weight of the edge to that node to the distance of the node that you are currently on.
+
+Choose the neighboring node that has not yet been visited with the smallest calculated distance found in the step above. Then move to that node and mark it as visited.
+
+Repeat the previous two steps until all nodes are marked as visited or the target node has been reached

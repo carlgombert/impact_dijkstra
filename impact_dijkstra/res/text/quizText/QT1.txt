@@ -1,0 +1,1 @@
+Given the following weighted graph find the best path from node A to C@Correct! now let's continue to a more difficult problem@You can take the path with the shortest weight(5) directly From A to C. Now let's continue to a more difficult problem

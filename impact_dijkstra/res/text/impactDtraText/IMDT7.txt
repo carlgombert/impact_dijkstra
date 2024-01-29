@@ -1,0 +1,1 @@
+Both international and domestic business rely heavily on transportation and efficient transportation routes are essential in reducing the costs of goods as well as reducing the environmental impact of their conveyance. Efficient routes are found using dijkstra and used in land, air and sea transportation.

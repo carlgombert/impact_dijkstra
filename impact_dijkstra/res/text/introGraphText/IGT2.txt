@@ -1,0 +1,1 @@
+Here is a diagram of a graph. you can see the nodes A-F and the edges connecting them.
